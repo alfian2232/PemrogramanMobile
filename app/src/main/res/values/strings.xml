@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Absensi</string>
+    <array name="kelas">
+        <item>IK-2A</item>
+        <item>IK-2B</item>
+        <item>IK-2C</item>
+    </array>
+    <array name="kodemk">
+        <item>Mk_01</item>
+        <item>Mk_02</item>
+        <item>Mk_03</item>
+    </array>
+    <array name="kehadiran">
+        <item>HADIR</item>
+        <item>TIDAK HADIR</item>
+    </array>
+    <string name="tab1">Login Mahasiswa</string>
+    <string name="tab2">Login Dosen</string>
+    <string name="tab3">Login PBM</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
